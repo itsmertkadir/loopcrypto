@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458109969329",
+    "project_id": "loopcrypto-76173",
+    "storage_bucket": "loopcrypto-76173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458109969329:android:390076210fa131fd4b5390",
+        "android_client_info": {
+          "package_name": "com.mertkadir.loopcrypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458109969329-g6m3p78k1s64fi17vlpmr9pn59bg4qld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdKXycsl5jEQ4t8vKS62McZ277EQV52cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458109969329-g6m3p78k1s64fi17vlpmr9pn59bg4qld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
